@@ -1,24 +1,18 @@
-# Promotional Email
+# Promotional Emails
 
-This promotional email template was created using email code best practices.
+The primary purpose of a promotional email is to get the word out to your subscribers about your product or services. Promotional emails help generate revenue, boost customer loyalty, and increase awareness for your brand. By providing discounts and promo codes, you can boost engagement with clients.
 
-## Highlights
-• mso | (IE) used for:
-    background image
-    + 2 columns + 3 columns.
+Examples of promotional emails include: latest arrivals, deals & offers, product launches, holiday/seasonal promotions, and giveaways & contests.
+## Demos
 
-• Columns stack depending on device width. Mobile friendly.
+#1. cupcakes.html: https://chaeri-heav3n.github.io/promotional.html
 
-• Table based coding (one div for the box-shadow).
-## Demo
+#2. fashion.html: https://chaeri-heav3n.github.io/e-commerce.html
+## #1. cupcakes.html
 
-https://chaeri-heav3n.github.io/promotional.html
-## Screenshots
+![App Screenshot](https://i.ibb.co/YLVdTkN/Screen-Shot-2023-03-26-at-6-42-35-PM.png)
 
-![App Screenshot](https://i.ibb.co/jR4Vch2/Screen-Shot-2023-03-06-at-9-55-53-PM.png)
+## #1. fashion.html
 
-![App Screenshot](https://i.ibb.co/MMRpnDp/Screen-Shot-2023-03-06-at-9-56-15-PM.png)
+![App Screenshot](https://i.ibb.co/zfRrCjZ/Screen-Shot-2023-03-26-at-6-43-20-PM.png)
 
-![App Screenshot](https://i.ibb.co/1TtTdHN/Screen-Shot-2023-03-06-at-9-56-32-PM.png)
-
-![App Screenshot](https://i.ibb.co/RPV26vk/Screen-Shot-2023-03-06-at-9-56-41-PM.png)
