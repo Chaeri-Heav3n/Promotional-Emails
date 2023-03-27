@@ -12,7 +12,7 @@ Examples of promotional emails include: latest arrivals, deals & offers, product
 
 ![App Screenshot](https://i.ibb.co/YLVdTkN/Screen-Shot-2023-03-26-at-6-42-35-PM.png)
 
-## #1. fashion.html
+## #2. fashion.html
 
 ![App Screenshot](https://i.ibb.co/zfRrCjZ/Screen-Shot-2023-03-26-at-6-43-20-PM.png)
 
