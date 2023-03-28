@@ -14,5 +14,5 @@ Examples of promotional emails include: latest arrivals, deals & offers, product
 
 ## #2. fashion.html
 
-![App Screenshot](https://i.ibb.co/zfRrCjZ/Screen-Shot-2023-03-26-at-6-43-20-PM.png)
+![App Screenshot](https://i.ibb.co/zfRrCjZ/Screen-Shot-2023-03-26-at-6-43-20-PM.png) *currently under revision*
 
