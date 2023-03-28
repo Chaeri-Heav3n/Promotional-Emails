@@ -7,12 +7,12 @@ Examples of promotional emails include: latest arrivals, deals & offers, product
 
 #1. cupcakes.html: https://chaeri-heav3n.github.io/promotional.html
 
-#2. fashion.html: https://chaeri-heav3n.github.io/e-commerce.html
+#2. fashion.html: https://chaeri-heav3n.github.io/e-commerce.html -currently under revision
 ## #1. cupcakes.html
 
 ![App Screenshot](https://i.ibb.co/YLVdTkN/Screen-Shot-2023-03-26-at-6-42-35-PM.png)
 
 ## #2. fashion.html
 
-![App Screenshot](https://i.ibb.co/zfRrCjZ/Screen-Shot-2023-03-26-at-6-43-20-PM.png) -currently under revision
+![App Screenshot](https://i.ibb.co/zfRrCjZ/Screen-Shot-2023-03-26-at-6-43-20-PM.png)
 
